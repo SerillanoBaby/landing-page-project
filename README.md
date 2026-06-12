@@ -1,2 +1,3 @@
 # landing-page-project
-Odin Project CSS Practice
+
+This is a practice for CSS from ODING PROJECT
